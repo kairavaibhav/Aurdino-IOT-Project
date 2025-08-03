@@ -1,4 +1,4 @@
-# Arduino iOT project
+# Arduino IOT project
 ![alt text](https://github.com/abhineetraj1/arduino-iot-project/blob/main/fav.png?raw=true)
 
 * RGB led blinking through website hosted under home network.
@@ -66,3 +66,4 @@ Make sure you have connected the laptop and the mobile with same network or wifi
 
 ## Developer
 *	[abhineetraj1](http://github.com/abhineetraj1)
+
