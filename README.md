@@ -1,4 +1,6 @@
-# Aurdino-IOT-Project
+# Arduino iOT project
+![alt text](https://github.com/abhineetraj1/arduino-iot-project/blob/main/fav.png?raw=true)
+
 * RGB led blinking through website hosted under home network.
 * User can controll the blinking of RGB light through web portal  from any device connected under same network
 * Python + Arduino project.
@@ -63,3 +65,4 @@ Make sure you have connected the laptop and the mobile with same network or wifi
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.arduino.cc/header-footer/prod/assets/favicon-arduino/favicon.ico" alt="blender" width="40" height="40"/> </a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 
 ## Developer
+*	[abhineetraj1](http://github.com/abhineetraj1)
